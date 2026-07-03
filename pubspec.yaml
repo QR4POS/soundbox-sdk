@@ -1,0 +1,11 @@
+name: soundbox_sdk
+version: 1.0.0
+description: Client SDK for the Currency Soundbox API. Converts payment amounts to spoken audio in Sinhala, English, and Tamil.
+repository: https://github.com/QR4POS/soundbox_sdk
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.0.0
+  just_audio: ^0.9.0
