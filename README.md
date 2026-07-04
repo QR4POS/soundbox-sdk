@@ -8,7 +8,7 @@ Dart client SDK for the Currency Soundbox API. Converts payment amounts to spoke
 dependencies:
   soundbox_sdk:
     git:
-      url: https://github.com/QR4POS/soundbox_sdk.git
+      url: https://github.com/QR4POS/soundbox-sdk.git
       ref: v1.0.0
 ```
 
